@@ -41,6 +41,7 @@ A 4-page interactive Power BI dashboard built to analyze retail sales performanc
 
 - `.pbix` dashboard file
 - Dashboard screenshots
+- Dashboard pdf
 
 ## Author
 
